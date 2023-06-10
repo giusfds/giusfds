@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giusfds&layout=compact&langs_count=16&theme=gruvbox"/>
 </div>
 
-##
+
 <div> 
 
   <a href="https://instagram.com/juseff3s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
