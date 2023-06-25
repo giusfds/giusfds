@@ -3,7 +3,6 @@
 - 💡 Estou no 1° período de Ciência da Computação pela PUC Minas.
 - 📜 Atualmente aprendendo Java e C.
 - 🔍 Toda ajuda sobre melhoramento de códigos e interfaces é bem-vinda!
-- 📫 Contate-me pelo e-mail: giuseppe.cordeiro@gmail.com
 
 ##
 
