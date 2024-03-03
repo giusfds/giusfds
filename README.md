@@ -1,7 +1,7 @@
 <h2 align="center">Hello my name is Giuseppe, and I'm from Brazil!</h2>
 
 - 💡 Estou no 3° período de Ciência da Computação pela PUC Minas.
-- 📜 Atualmente aprendendo C, C++, Java e Python.
+- 📜 Atualmente aprendendo Java.
 - 🔍 Toda ajuda sobre melhoramento de códigos e interfaces é bem-vinda!
 
 ##
