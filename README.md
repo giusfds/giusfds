@@ -1,5 +1,10 @@
-# PT/BR
 <h1 align="center">Hello, my name is Giuseppe, and I'm from Brazil!</h1>
+
+<table>
+  <tr>
+    <td>
+
+### PT/BR
 
 - 💡 Estou no 3° período de Ciência da Computação pela PUC Minas.
 - 📜 Atualmente aprendendo Java.
@@ -40,8 +45,10 @@
 ## Principais Habilidades:
 - BackEnd
 
-# EN
-<h1 align="center">Hello, my name is Giuseppe, and I'm from Brazil!</h1>
+    </td>
+    <td>
+
+### EN
 
 - 💡 I'm in the 3rd period of Computer Science at PUC Minas.
 - 📜 Currently learning Java.
@@ -82,3 +89,6 @@
 ## Main Skills:
 - BackEnd
 
+    </td>
+  </tr>
+</table>
