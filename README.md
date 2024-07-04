@@ -1,8 +1,8 @@
 <h1 align="center">Hello, my name is Giuseppe, and I'm from Brazil!</h1>
 
-<table>
+<table style="width:100%">
   <tr>
-    <td>
+    <td style="width:50%; vertical-align:top; padding:10px;">
 
 ### PT/BR
 
@@ -46,7 +46,7 @@
 - BackEnd
 
     </td>
-    <td>
+    <td style="width:50%; vertical-align:top; padding:10px;">
 
 ### EN
 
