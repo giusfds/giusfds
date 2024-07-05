@@ -41,9 +41,9 @@
 - GitHub <img src="https://github.com/github/explore/blob/main/topics/github/github.png" alt="github logo" width="20" height="20">
 
 ### Idiomas:
-- Portuguese <img src="https://github.com/ashleedawg/flags/blob/master/BR.png" alt="BR flag" width="20" height="20">: Nativo
-- English <img src="https://github.com/ashleedawg/flags/blob/master/US.png" alt="US flag" width="20" height="20">: Fluente
-- Italian <img src="https://github.com/ashleedawg/flags/blob/master/IT.png" alt="IT flag" width="20" height="20">: Básico
+- Portuguese <img src="https://github.com/ashleedawg/flags/blob/master/BR.png" alt="BR flag" width="20" height="15">: Nativo
+- English <img src="https://github.com/ashleedawg/flags/blob/master/US.png" alt="US flag" width="20" height="15">: Fluente
+- Italian <img src="https://github.com/ashleedawg/flags/blob/master/IT.png" alt="IT flag" width="20" height="15">: Básico
 
 
 ## Principais Habilidades:
@@ -89,9 +89,9 @@
 - GitHub <img src="https://github.com/github/explore/blob/main/topics/github/github.png" alt="github logo" width="20" height="20">
 
 ### Languages:
-- Portuguese <img src="https://github.com/ashleedawg/flags/blob/master/BR.png" alt="BR flag" width="20" height="20">: Native
-- English <img src="https://github.com/ashleedawg/flags/blob/master/US.png" alt="US flag" width="20" height="20">: Fluent
-- Italian <img src="https://github.com/ashleedawg/flags/blob/master/IT.png" alt="IT flag" width="20" height="20">: Basic
+- Portuguese <img src="https://github.com/ashleedawg/flags/blob/master/BR.png" alt="BR flag" width="20" height="15">: Native
+- English <img src="https://github.com/ashleedawg/flags/blob/master/US.png" alt="US flag" width="20" height="15">: Fluent
+- Italian <img src="https://github.com/ashleedawg/flags/blob/master/IT.png" alt="IT flag" width="20" height="15">: Basic
 
 
 ## Main Skills:
