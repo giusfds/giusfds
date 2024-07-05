@@ -1,6 +1,5 @@
 <h1 align="center">Hello, my name is Giuseppe, and I'm from Brazil!</h1>
-<h2 align="center">![Linkedin](https://img.shields.io/badge/Giuseppe%20Cordeiro%20-blue?style=flat-square&logo=Linkedin&logoColor=white)(www.linkedin.com/in/giuseppecordeiro )
-</h2>
+
 <table style="width:200%">
   <tr>
     <td style="width:50%; vertical-align:top; padding:20px;">
