@@ -13,12 +13,13 @@
 ## Habilidades Técnicas
 
 ### Linguagens de Programação:
-- C
-- C++
-- Java
-- Python
-- JavaScript
-- SpringBoot / SpringCloud
+- C <img src="https://github.com/github/explore/blob/main/topics/c/c.png" alt="python logo" width="10" height="10">
+- C++ <img src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png" alt="python logo" width="10" height="10">
+- Java <img src="https://github.com/github/explore/blob/main/topics/java/java.png" alt="python logo" width="10" height="10">
+- Python <img src="https://github.com/github/explore/blob/main/topics/python/python.png" alt="python logo" width="10" height="10">
+- JavaScript <img src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" alt="python logo" width="10" height="10">
+- SpringBoot/SpringCloud <img src="https://github.com/github/explore/blob/main/topics/spring-boot/spring-boot.png" alt="python logo" width="10" height="10">
+
 
 ### Bancos de Dados:
 - MongoDB
@@ -57,12 +58,12 @@
 ## Technical Skills
 
 ### Programming Languages:
-- C
-- C++
-- Java
-- Python
-- JavaScript
-- SpringBoot / SpringCloud
+- C <img src="https://github.com/github/explore/blob/main/topics/c/c.png" alt="python logo" width="10" height="10">
+- C++ <img src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png" alt="python logo" width="10" height="10">
+- Java <img src="https://github.com/github/explore/blob/main/topics/java/java.png" alt="python logo" width="10" height="10">
+- Python <img src="https://github.com/github/explore/blob/main/topics/python/python.png" alt="python logo" width="10" height="10">
+- JavaScript <img src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png" alt="python logo" width="10" height="10">
+- SpringBoot/SpringCloud <img src="https://github.com/github/explore/blob/main/topics/spring-boot/spring-boot.png" alt="python logo" width="10" height="10">
 
 ### Databases:
 - MongoDB
