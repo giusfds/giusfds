@@ -13,7 +13,7 @@
 
 <div>
   <ul style="list-style-type: none; padding: 0;">
-    <li>🌞 Software Developer by day, 🌟 Graphic Designer by night</li>
+    <li>🌞 Software Developer by day</li>
     <li>🌱 Always learning, currently diving deep into Fullstack Development</li>
     <li>💡 Transforming ideas into visual realities</li>
   </ul>
@@ -48,13 +48,6 @@
     <img
       src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
       alt="Gmail"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/dinito-thompson/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank"
-      alt="LinkedIn"
     />
   </a>
   <a href="https://www.linkedin.com/in/giuseppecordeiro/" target="_blank">
