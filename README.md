@@ -13,7 +13,7 @@
 
 <div>
   <ul style="list-style-type: none; padding: 0;">
-    <li>🌞 Software Developer by day</li>
+    <li>🌞 Software Developer by day, 🌟 a Jedi by night</li>
     <li>🌱 Always learning, currently diving deep into Fullstack Development</li>
     <li>💡 Transforming ideas into visual realities</li>
   </ul>
@@ -34,11 +34,12 @@
 </div>
 <br />
 <hr />
+
 <div align="center">
   <p>
     <em>
-      Remember: Stay curious, keep coding, and may your coffee be strong!
-      ☕💻
+      Remember: Stay curious, keep coding, and may the Force be with you!
+      ✨💻
     </em>
   </p>
 </div>
