@@ -30,7 +30,7 @@
 | Backend & APIs | Databases | DevOps & Cloud |
 | <div align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=docker,github" /></div> |
 | IDEs & Tools | Design & UI/UX | Machine Learning |
-| <div align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,postman" /></div> | <div align="center"><br/><img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=py" /></div> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,postman" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=figma"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=py" /></div> |
 </div>
 <br />
 <hr />
