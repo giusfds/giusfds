@@ -45,17 +45,25 @@
 </div>
 
 <div align="center">
-  <a href="mailto:giuseppe.cordeiro@gmail.com">
+
+  <div align="center">
+    <a href="mailto:giuseppe.cordeiro@gmail.com">
     <img
       src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
-      alt="Gmail"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/giuseppecordeiro/" target="_blank">
-    <img 
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-    alt="LinkedIn">
-  </a>
+      alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/giuseppecordeiro/" target="_blank">
+      <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"/>
+    </a>
+  </div>
+  <div align="center">
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=giusfds&label=Profile%20Views&color=0&icon=5&pretty=false" />
+    </a>
+  </div>
+  
 </div>
 
 <h3 align="center">
@@ -64,10 +72,4 @@
       src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;"
     />
   </div>
-  <div align="center">
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=giusfds&label=Profile%20Views&color=0&icon=5&pretty=false" />
-    </a>
-  </div>
-  
 </h3>
