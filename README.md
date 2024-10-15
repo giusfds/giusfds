@@ -26,11 +26,11 @@
 
 | Languages | Web Development | Mobile & Cross-Platform |
 |:---:|:---:|:---:|
-| <div align="center"><img src="https://skillicons.dev/icons?i=java,cpp,py,js" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" /></div> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=java,cpp,py,js" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react,css,nodejs" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" /></div> |
 | Backend & APIs | Databases | DevOps & Cloud |
 | <div align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=docker,github" /></div> |
 | IDEs & Tools | Design & UI/UX | Machine Learning |
-| <div align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,postman" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=figma"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=py" /></div> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=figma"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=py" /></div> |
 </div>
 <br />
 <hr />
