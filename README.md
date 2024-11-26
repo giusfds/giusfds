@@ -28,7 +28,7 @@
 |:---:|:---:|:---:|
 | <div align="center"><img src="https://skillicons.dev/icons?i=java,cpp,py" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=react,css,nodejs" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" /></div> |
 | Backend & APIs | Databases | DevOps & Cloud |
-| <div align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=docker,github" /></div> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=postgresql,mysql" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=docker,github" /></div> |
 | IDEs & Tools | Design & UI/UX | Machine Learning |
 | <div align="center"><img src="https://skillicons.dev/icons?i=vscode,idea,postman" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=figma"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=py" /></div> |
 </div>
