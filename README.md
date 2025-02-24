@@ -26,7 +26,7 @@
 
 | Languages | Web Development | Mobile & Cross-Platform |
 |:---:|:---:|:---:|
-| <div align="center"><img src="https://skillicons.dev/icons?i=java,cpp,py," /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=html,css,nodejs" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" /></div> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=java,cpp,py,"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=html,css,nodejs" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" /></div> |
 | Backend & APIs | Databases | DevOps & Cloud |
 | <div align="center"><img src="https://skillicons.dev/icons?i=spring,nodejs" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=postgresql,mysql" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=docker,github" /></div> |
 | IDEs & Tools | Design & UI/UX | Machine Learning |
@@ -56,11 +56,6 @@
       <img 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn"/>
-    </a>
-  </div>
-  <div align="center">
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=giusfds&label=Profile%20Views&color=0&icon=5&pretty=false" />
     </a>
   </div>
   
