@@ -47,11 +47,6 @@
 <div align="center">
 
   <div align="center">
-    <a href="mailto:giuseppe.cordeiro@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"
-      alt="Gmail"/>
-    </a>
     <a href="https://www.linkedin.com/in/giuseppecordeiro/" target="_blank">
       <img 
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
@@ -68,3 +63,10 @@
     />
   </div>
 </h3>
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giusfds/giusfds/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giusfds/giusfds/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/giusfds/giusfds/output/pacman-contribution-graph.svg">
+</picture>
